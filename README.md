@@ -1,2 +1,2 @@
 # prof.barletta
-site desenvolvido pelo professor barletta como material de estudo em programação.
+Site desenvolvido pelo Professor Barletta como material de estudo em programação.
